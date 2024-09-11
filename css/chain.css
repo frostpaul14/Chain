@@ -6,8 +6,9 @@
 
 body {
   background: #1f1f1f;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-}
+font-family: forma-djr-micro, sans-serif;
+font-style: normal;
+font-weight: 200;}
 
 .cont {
   position: relative;
